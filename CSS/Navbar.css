@@ -1,0 +1,83 @@
+/* Image de présentation du forum */
+
+#imgpresentation{
+    background-size: cover;
+    background: url("../Img/forum.jpg") no-repeat center;
+    /*width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;*/
+    height: 409px;
+    display: flex;
+    justify-content: center;
+}
+
+/* Barre de navigation */
+
+
+
+/*
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0 10% 0 10%;
+    height: auto;
+    width: 80%;
+    min-width: 730px;
+    border: 1px solid #7083A8;
+    /* Couleur de base de la palette
+    background-color: #2B4371;
+}
+
+#navbar>div{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+#navbar>div>form{
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+
+/* Boutons de la barre de navigation
+.txtinput{
+    width: 100px;
+}
+
+.btnco{
+    text-decoration: none;
+    display: block;
+    vertical-align: middle;
+    text-align: center;
+    padding: 0;
+    border: 0;
+    margin: 3px 2px 3px 2px;
+    line-height: 40px;
+    height: 40px;
+    width: 100px;
+    border-radius: 3px;
+    background-color: #7083A8;
+    color: #06173A;
+}
+
+.btnav{
+    text-decoration: none;
+    display: block;
+    vertical-align: middle;
+    text-align: center;
+    margin: 3px 2px 3px 2px;
+    line-height: 40px;
+    height: 40px;
+    width: 100px;
+    border-radius: 3px;
+    background-color: #06173A;
+    color: #7083A8;
+}
+
+.btnav:hover{
+    background-color: #152B57;
+}
+*/
+

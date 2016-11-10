@@ -1,0 +1,15 @@
+.maincontent li{
+    list-style: none;
+    margin: 4px 0 4px 0;
+}
+
+.maincontent ul{
+    padding: 0 10px 0 10px;
+}
+
+.forumcontent {
+    background-color: #2B4371;
+    border: 1px solid #7083A8;
+}
+
+
